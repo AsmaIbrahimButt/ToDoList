@@ -1,0 +1,60 @@
+
+*{
+    background-image: url('sch.jpg');
+}
+.green {
+    color:rgb(12, 241, 12);
+}
+.red {
+    color:rgb(218, 0, 0);
+}
+.blue {
+    color:skyblue
+}
+#itemList { font-size: 1.5rem;}
+.show { display: block;}
+.hide { display: none;}
+
+#itemInput
+{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color: blanchedalmond;
+}
+.btn 
+{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color: blanchedalmond
+}
+.nav-link 
+{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color: blanchedalmond;
+    width: 100px;
+}
+
+
+.container
+{
+    background-color:  #000000;;
+}
+.text
+{
+    color: black;
+}
+#itemForm
+{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color: blanchedalmond;
+    
+}
+.nav-tabs
+{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color: blanchedalmond;
+     
+}
