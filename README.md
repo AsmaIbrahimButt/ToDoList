@@ -1,2 +1,3 @@
-#To Do lisy by using HTml Css Bootstrao & Javascript
+#To Do lisy by using HTml Css Bootstrap
+& Javascript
 #Project for a javascript Beginners.....
